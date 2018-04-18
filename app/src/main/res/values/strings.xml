@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ป้ายจราจรน่ารู้</string>
+    <string name="my_name">นางสาวกิ่งกาญจน์ ศิลปคัมภีรภาพ</string>
+    <string name="my_najor">หลักสูตรวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์และเทคโนโลยี</string>
+    <string name="my_university">มหาวิทยาลัยสวนดุสิต</string>
+    <string name="my_mobila">เบอร์ติดต่อ 094-4494269</string>
+    <string name="my_facebook">https://www.facebook.com/kingkanaa</string>
+
 </resources>
